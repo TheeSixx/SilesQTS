@@ -1,0 +1,1 @@
+console.log("%cFala ae mundão", "background-color: blue");
